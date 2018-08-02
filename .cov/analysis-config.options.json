@@ -1,0 +1,18 @@
+{
+  "Default": {
+    "server.auth_key_file": "C:\\Users\\cc1718\\AppData\\Roaming\\Coverity\\authkeys\\ak-10.64.136.11-8080",
+    "server.host": "10.64.136.11",
+    "server.ssl": false,
+    "server.username": "cc1718",
+    "vs.general.active_configuration": true,
+    "vs.general.version": {
+      "Major": 2017,
+      "Minor": 7,
+      "Revision": 1,
+      "Hotfix": 0
+    },
+    "vs.ui.local_search_paths": [
+      "C:\\TechDocs\\ScottSpaceFlight\\V08349_Codes\\Section 4 Codes\\Plugins"
+    ]
+  }
+}
